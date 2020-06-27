@@ -1,13 +1,13 @@
 {
   "ads": {
-    "id_app": "5eddf54135810c06f487c05c",
-    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
-    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
-    "banner_main": "ca-app-pub-3940256099942544/6300978111",
-    "inter_main": "ca-app-pub-3940256099942544/1033173712"
+    "id_app": "5eddf54135810c06f487c05cdf",
+    "banner_setting": "ca-app-pub-8541594829243773/6938709291",
+    "inter_setting": "ca-app-pub-8541594829243773/7986097469",
+    "banner_main": "ca-app-pub-8541594829243773/1247398916",
+    "inter_main": "ca-app-pub-8541594829243773/5817199314"
   }, 
   "app_exists": {
-    "id": "com.tiktok.videos.download.trending",
+    "id": "videocall.totok.prank",
     "is_exists": true,
     "is_show_more": false
   },
